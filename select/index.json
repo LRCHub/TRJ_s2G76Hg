@@ -1,0 +1,160 @@
+{
+  "version": 1,
+  "base_track": "Far From Any Road",
+  "base_artist": "The Handsome Family",
+  "createdAt": "2025-12-07T20:31:55.412116Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Far From Any Road",
+      "artist": "The Handsome Family",
+      "has_synced": true,
+      "path": "select/01_Far_From_Any_Road_The_Handsome_Family.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Far From Any Road",
+      "artist": "The Handsome Family",
+      "has_synced": true,
+      "path": "select/02_Far_From_Any_Road_The_Handsome_Family.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Far From Any Road",
+      "artist": "Handsome Family",
+      "has_synced": true,
+      "path": "select/03_Far_From_Any_Road_Handsome_Family.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Far From Any Road",
+      "artist": "Jerry Williams",
+      "has_synced": false,
+      "path": "select/04_Far_From_Any_Road_Jerry_Williams.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Handsome Family - Far From Any Road",
+      "artist": "Various",
+      "has_synced": true,
+      "path": "select/05_Handsome_Family_-_Far_From_Any_Road_Various.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Far from Any Road",
+      "artist": "The Handsome Family",
+      "has_synced": true,
+      "path": "select/06_Far_from_Any_Road_The_Handsome_Family.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Far From Any Road",
+      "artist": "Handsome Family, The",
+      "has_synced": true,
+      "path": "select/07_Far_From_Any_Road_Handsome_Family,_The.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Far From Any Road",
+      "artist": "The Handsome Family",
+      "has_synced": true,
+      "path": "select/08_Far_From_Any_Road_The_Handsome_Family.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Far From Any Road",
+      "artist": "Comaduster",
+      "has_synced": false,
+      "path": "select/09_Far_From_Any_Road_Comaduster.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Far From Any Road",
+      "artist": "The Handsome Family",
+      "has_synced": true,
+      "path": "select/10_Far_From_Any_Road_The_Handsome_Family.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Far From Any Road",
+      "artist": "The Handsome Family",
+      "has_synced": true,
+      "path": "select/11_Far_From_Any_Road_The_Handsome_Family.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Far From Any Road",
+      "artist": "The Handsome Family",
+      "has_synced": true,
+      "path": "select/12_Far_From_Any_Road_The_Handsome_Family.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Far From Any Road",
+      "artist": "The Handsome Family",
+      "has_synced": true,
+      "path": "select/13_Far_From_Any_Road_The_Handsome_Family.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Far From Any Road",
+      "artist": "The Handsome Family",
+      "has_synced": true,
+      "path": "select/14_Far_From_Any_Road_The_Handsome_Family.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Far From Any Road (Instrumental)",
+      "artist": "Comaduster",
+      "has_synced": false,
+      "path": "select/15_Far_From_Any_Road_(Instrumental)_Comaduster.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Far From Any Road",
+      "artist": "Alina Gingertail",
+      "has_synced": true,
+      "path": "select/16_Far_From_Any_Road_Alina_Gingertail.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "The Handsome Family - Far From Any Road",
+      "artist": "Beatriz",
+      "has_synced": true,
+      "path": "select/17_The_Handsome_Family_-_Far_From_Any_Road_Beatriz.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Far from Any Road (Paused)",
+      "artist": "The Handsome Family",
+      "has_synced": true,
+      "path": "select/18_Far_from_Any_Road_(Paused)_The_Handsome_Family.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Far From Any Road",
+      "artist": "The Handsome Family",
+      "has_synced": false,
+      "path": "select/pl_01_Far_From_Any_Road_The_Handsome_Family.txt"
+    }
+  ]
+}
