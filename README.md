@@ -1,0 +1,20 @@
+# The Handsome Family – Far From Any Road
+
+> **歌詞登録ステータス：同期歌詞あり**
+
+```lrc
+[00:06.46] From the dusty mesa her looming shadow grows
+[00:16.39] Hidden in the branches of the poison creosote
+[00:25.69] She twines her spines up slowly towards the boiling sun
+[00:34.48] And when I touched her skin, my fingers ran with blood
+[01:01.48] 
+[00:42.20] In the hushing dusk, under a swollen silver moon
+[01:02.53] I came walking with the wind to watch the cactus bloom
+[01:11.11] And strange hunger haunted me, the looming shadows danced
+[01:20.51] I fell down to the thorny brush and felt the trembling hands
+[01:50.51] 
+[01:35.48] When the last light warms the rocks and the rattlesnakes unfold
+[01:52.90] The mountain cats will come to drag away your bones
+[02:00.35] And rise with me forever across the silent sand
+[02:10.05] And the stars will be your eyes and the wind will be my hands
+```
